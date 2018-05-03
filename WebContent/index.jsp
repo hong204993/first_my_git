@@ -11,6 +11,7 @@
 </head>
 <body>
 	<h3>로그인페이지</h3>
+	<form action="">
 	<table>
 	<tr>
 	<td>ID</td>
@@ -24,6 +25,7 @@
 	<td colspan="2"><button>로그인</button></td>	
 	</tr>
 	</table>
+	</form>
 </body>
 <script>
 	
