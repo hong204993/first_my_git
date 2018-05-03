@@ -10,6 +10,7 @@
 </style>
 </head>
 <body>
+
 <ul>
 	<li>첫번째리스트</li>	
 	<li>2번째리스트</li>
@@ -19,6 +20,19 @@
 </ul>
 <p>리스트 추가 그만</p>
 	
+
+<ol>
+	<li>LIST</li>
+	<li>LIST</li>
+	<li>LIST</li>
+	<li>LIST</li>
+	<li>LIST</li>
+	<li>LIST</li>
+	<li>LIST</li>
+	<li>LIST</li>	
+</ol>
+<p>리스트 마감</p>
+
 </body>
 <script>
 	
