@@ -10,7 +10,7 @@
 </style>
 </head>
 <body>
-
+<h3>github가입을 축하합니다</h3>
 <ul>
 	<li>첫번째리스트</li>	
 	<li>2번째리스트</li>
